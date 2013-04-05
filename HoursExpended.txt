@@ -1,0 +1,10 @@
+March 23 - Start Reading about Laravel(http://laravel.com/docs) - 1 hour
+March 24- Keep Reading about Laravel abd Bootstrap(http://laravel.com/docs and twitter.github.com/bootstrap/) - 5 hours
+March 26 - Got my enviroment set up and understood how everything is related (Sublime-Laravel-XAMPP-Bootstrap) - 3 hours.
+March 27 - Start designing on paper my project, functions, database and relations. - 3 hours
+March 31 - Start coding. Completed Log in and Register Functionalities - 4 hours
+April 1 - Completed Post Questions functionality- 2 hours
+April 3 - Completed Comments functionalities, including accept comments - 4 hours
+April 4 - Completed Vote up functionality  and started Vote Down Functionality- 2 hours
+April 5 - Completed Vote Down Functionality. - 30 minutes
+April 5 - Upload to Github - Around 4 hours between brakes at work and lunch. 
